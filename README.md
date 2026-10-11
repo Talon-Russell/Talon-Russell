@@ -50,4 +50,3 @@ user provisioning, and administrative efficiency.
 ## 📫 Connect With Me
 https://www.linkedin.com/in/talon-russell-841145422/
 
-- LinkedIn: Add your LinkedIn URL
