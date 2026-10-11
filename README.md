@@ -1,52 +1,52 @@
+# Talon Russell
 
-# Hi, I'm Talon 👋
+**Identity & Access Management | Microsoft Entra ID | Cloud Security**
 
-### IAM and PKI | U.S. Air Force IT Professional
+I'm an IT professional in the U.S. Air Force with a background in enterprise identity management, Active Directory, PKI, and systems administration.
 
-I'm an IT professional specializing in Public Key Infrastructure (PKI),
-identity and access management (IAM), and cloud security.
+My focus is on building secure and scalable identity environments, automating administrative tasks, and improving how organizations manage access to their systems.
 
-My experience includes enterprise Active Directory administration,
-PKI operations, identity lifecycle management, and automation.
+I use this GitHub to document my hands-on labs, explore Microsoft Entra ID capabilities, and build practical identity and cloud security solutions.
 
-## 🛠️ Technical Skills
+## What I'm Building
 
-- **Cloud:** (AWS) EC2, VPC, IAM, S3, RDS, Lambda, Route 53, CloudWatch, CloudTrail, CloudFormation, Elastic Load Balancing (ELB), Auto Scaling
-- **Identity:** Microsoft Entra ID, Active Directory, PKI, Okta
-- **Automation:** PowerShell, Python
-- **Security:** IAM, RBAC, NIST, DISA STIGs
-- **Networking:** VPCs, VPNs, VLANs, TCP/IP
-- **Infrastructure:** Windows Server, Linux
+**Microsoft Entra ID – Identity & Access Management Labs**
 
-## 🎓 Education
+Hands-on labs focused on configuring, managing, and securing identities in Microsoft Entra ID.
 
-B.S. Cloud and Network Engineering (AWS)
+- **User & Group Management** – Creating and managing users, bulk user provisioning, assigning group membership, and configuring dynamic security groups.
+- **External Identities** – Configuring guest access, external collaboration settings, and identity management for users outside the organization.
+- **Role-Based Access Control (RBAC)** – Exploring administrative roles, delegated permissions, and least-privilege access.
+- **Conditional Access** – Working with access policies, MFA requirements, and identity-based security controls.
+- **Identity Automation** – Exploring PowerShell and Microsoft Graph to automate identity administration and user lifecycle management.
 
-## 🏆 Certifications
+**AWS Hybrid Cloud Infrastructure**
 
-- AWS Solutions Architect – Associate
-- AWS CloudOps Engineer – Associate
-- CompTIA Security+
-- CompTIA CySA+
-- CompTIA PenTest+
-- CompTIA Network+
-- CompTIA A+
-- ITIL 4 Foundation
+- **GNS3-to-AWS Hybrid Network** –  Currently working on a simulated on-premises enterprise network and connecting it to an AWS VPC through an IPsec VPN, implementing VLAN segmentation, routing, and security controls.
 
-## 🚀 Technical Projects
+## Technical Stack
 
-### Microsoft Entra ID IAM Labs
-Hands-on identity administration, dynamic security groups,
-user provisioning, and identity security configurations.
+**Identity & Access Management:** Microsoft Entra ID, Active Directory, PKI, RBAC, Group Policy, Identity Lifecycle Management
 
-### AWS Hybrid Cloud Infrastructure
-Hybrid networking lab connecting simulated on-premises
-infrastructure with AWS using IPsec VPN connectivity.
+**Microsoft Identity Technologies:** Entra ID Dynamic Groups, External Identities, Conditional Access, Microsoft Graph, MFA
 
-### PowerShell Automation
-Automation projects focusing on identity management,
-user provisioning, and administrative efficiency.
+**Cloud:** AWS (EC2, VPC, IAM, S3, Route 53, CloudWatch, Security Groups, Route Tables)
 
-## 📫 Connect With Me
-https://www.linkedin.com/in/talon-russell-841145422/
+**Automation:** PowerShell, Python, Microsoft Graph PowerShell SDK
+
+**Security:** NIST, DISA STIGs, Least Privilege, Access Control, Identity Security
+
+**Systems & Networking:** Windows Server, Linux, DNS, DHCP, TCP/IP, VLANs, VPNs
+
+## Background
+
+U.S. Air Force IT professional with experience administering enterprise Active Directory environments, managing PKI infrastructure, supporting identity lifecycle operations, and developing PowerShell automation to improve administrative efficiency.
+
+I hold a B.S. in Cloud and Network Engineering and am continuing to develop my skills in Microsoft Entra ID, identity security, and cloud infrastructure through hands-on projects.
+
+**Certifications:** AWS Solutions Architect – Associate | AWS CloudOps Engineer – Associate | Security+ | CySA+ | PenTest+ | Network+ | A+ | ITIL 4 Foundation
+
+## Connect
+
+**LinkedIn:** https://www.linkedin.com/in/talon-russell-841145422/
 
