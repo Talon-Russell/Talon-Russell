@@ -2,7 +2,7 @@
 
 **Identity & Access Management | Microsoft Entra ID | Cloud Security**
 
-I build secure, scalable identity environments and automate the administrative work around them. I use this GitHub to document hands-on labs in Microsoft Entra ID, identity automation, and hybrid cloud security.
+U.S. Air Force IT professional managing enterprise Active Directory and PKI, now focused on Microsoft Entra ID and cloud identity. This GitHub documents my hands-on labs in identity administration, PowerShell/Graph automation, and hybrid cloud security.
 
 ---
 
