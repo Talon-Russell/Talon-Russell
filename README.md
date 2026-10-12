@@ -20,9 +20,19 @@ Hands-on labs focused on configuring, managing, and securing identities in Micro
 - **Conditional Access** – Working with access policies, MFA requirements, and identity-based security controls.
 - **Identity Automation** – Exploring PowerShell and Microsoft Graph to automate identity administration and user lifecycle management.
 
-**AWS Hybrid Cloud Infrastructure**
+## Completed Projects
 
-- **GNS3-to-AWS Hybrid Network** –  Currently working on a simulated on-premises enterprise network and connecting it to an AWS VPC through an IPsec VPN, implementing VLAN segmentation, routing, and security controls.
+**AWS Hybrid Network Security Lab**
+
+[View Project](https://github.com/Talon-Russell/aws-hybrid-network-security)
+
+Built a simulated on-premises network in GNS3 and connected it to an AWS VPC through an IPsec VPN using VyOS and Libreswan.
+
+- Configured departmental VLANs, DHCP, routing, and NAT.
+- Created separate AWS application and database subnets.
+- Applied firewall rules and AWS security groups to control access.
+- Documented eight validation tests covering local, cloud, and hybrid connectivity.
+- Troubleshot DHCP, NAT, and VPN configuration issues.
 
 ## Technical Stack
 
