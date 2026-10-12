@@ -50,6 +50,7 @@ U.S. Air Force IT professional with experience administering enterprise Active D
 **Education:** B.S. Cloud and Network Engineering
 
 **Certifications:** AWS Solutions Architect – Associate | AWS CloudOps Engineer – Associate | Security+ | CySA+ | PenTest+ | Network+ | A+ | ITIL 4 Foundation
+
 Clearance: Active Secret
 
 ---
